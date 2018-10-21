@@ -99,5 +99,6 @@
     <Build Include="dbo\Stored Procedures\P_FactStrategyPlan.sql" />
     <Build Include="dbo\Stored Procedures\P_FactSalesQuota.sql" />
     <Build Include="Security\widoki_TSQL.sql" />
+    <Build Include="dbo\Views\widok_zaj04_01.sql" />
   </ItemGroup>
 </Project>
